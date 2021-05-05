@@ -2,9 +2,9 @@
 
 
 ## Technology  
-**Eclipse (Environment)**
-**Java (Language)**
-**Selenium (Framework)**
+* **Eclipse (Environment)**
+* **Java (Language)**
+* **Selenium (Framework)**
 
 
 ## Issues I ran into
