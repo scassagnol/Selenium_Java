@@ -13,3 +13,5 @@ I downloaded an incompatiable version of the Chrome driver for my browser. Make 
 ## Purpose
 This code takes you my website. It's just a refresher for me on Selenium so it does something really simple. 
 This is the video I used to help set up my Chrome driver and Selenium jar & zip files --> https://youtu.be/WzuJANOPLyQ
+
+Selenium Download https://www.seleniumhq.org/selenium-ide/docs/en/introduction/code-export/
